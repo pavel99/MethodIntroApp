@@ -1,0 +1,5 @@
+E:\Pavel\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe.config
+E:\Pavel\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe
+E:\Pavel\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.pdb
+E:\Pavel\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.exe
+E:\Pavel\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.pdb
